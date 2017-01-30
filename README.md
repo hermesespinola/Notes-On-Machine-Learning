@@ -1,5 +1,5 @@
 # Notes Machine Learning
-This repo contains notes as well as my solutions for Stanford's Machine Learning course assignments programmed in Octave 4.0.2.
+This repository contains notes retrieved from [CS 229: Machine Learning (Course handouts)](http://cs229.stanford.edu/materials.html) as well as my solutions for Stanford's Machine Learning course assignments programmed in Octave 4.0.2.
 
 ## Machine Learning Honor Code
 
